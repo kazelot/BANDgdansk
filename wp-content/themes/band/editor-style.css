@@ -1,0 +1,14 @@
+div.drzewoOpis {
+    outline: 1px dashed #d3d3d3;
+}
+
+div.drzewoOpis div {
+    outline: 1px dashed #d3d3d3;    
+}
+
+div.drzewoOpis h2 {
+    margin: 0;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
